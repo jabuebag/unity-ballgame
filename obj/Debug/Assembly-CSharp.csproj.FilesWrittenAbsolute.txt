@@ -1,0 +1,13 @@
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/UnityEngine.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/UnityEditor.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jabue/Documents/unity-test/Temp/bin/Debug/Mono.Cecil.Mdb.dll
